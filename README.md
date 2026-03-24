@@ -1,9 +1,9 @@
-<img width="1932" height="1087" alt="image" src="https://github.com/user-attachments/assets/fbcfbe04-ae85-460b-bbd4-ac03640b8810" /># Tennis Game Analysis with AI
+# Tennis Game Analysis with AI
 
 An advanced computer vision project that leverages deep learning to automatically detect, track, and analyze tennis players and ball movements in video sequences. This system uses state-of-the-art YOLO models and keypoint detection to provide detailed insights into tennis gameplay.
 
-# Screen of outpud video
-
+# Screen of output video
+<img width="1932" height="1087" alt="image" src="https://github.com/user-attachments/assets/fbcfbe04-ae85-460b-bbd4-ac03640b8810" />
 ## 🎯 Project Overview
 
 This project implements a comprehensive tennis video analysis pipeline that:
